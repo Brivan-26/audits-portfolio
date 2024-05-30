@@ -13,6 +13,7 @@
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|April 2024  | [DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Code4rena | 5 Highs, 2 Mediums |
 |March 2024  | [vVv Vesting & Staking](https://audits.sherlock.xyz/contests/278) | Sherlock | 0 (contest ended with 0 valid findings) |
 |March 2024  | [PoolTogether](https://code4rena.com/audits/2024-03-pooltogether#top) | Code4rena | 1 High, 1 Medium |
 |February 2024  | [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) | Code4rena | 2 Highs |
