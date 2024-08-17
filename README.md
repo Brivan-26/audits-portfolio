@@ -13,6 +13,8 @@
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|July 2024  | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | Code4rena | 2 Highs, 1 Medium |
+|July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 communiyt judging, 1 Medium, 2 Lows |
 |April 2024  | [DYAD](https://code4rena.com/audits/2024-04-dyad#top) | Code4rena | 5 Highs, 2 Mediums |
 |March 2024  | [vVv Vesting & Staking](https://audits.sherlock.xyz/contests/278) | Sherlock | 0 (contest ended with 0 valid findings) |
 |March 2024  | [PoolTogether](https://code4rena.com/audits/2024-03-pooltogether#top) | Code4rena | 1 High, 1 Medium |
