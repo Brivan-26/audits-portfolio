@@ -9,10 +9,11 @@
 
 | Findings             | Contests    | 
 |:-------------------|:-------------|
-| 16 High 13 Medium   | 11 |
+| 23 High 13 Medium   | 12 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Report | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:|
+|August 2024  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Codehawks | 7 Highs, 3 Lows | [📝](/reports/Tadle/README.md)
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging, 2 Mediums | [📝](./reports/FjordStaking/README.md)
 |July 2024  | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | Code4rena | 5 Highs, 5 Mediums | [📝](./reports/TraitForge/README.md)
 |July 2024  | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | Code4rena | 2 Highs, 1 Medium | [📝](./reports/Munchables/README.md)
