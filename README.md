@@ -2,19 +2,19 @@
 
 
 - [X](https://twitter.com/bri_samed)
-- [Linkedin](https://www.linkedin.com/in/rezazi-mohamed-abdessamed/)
 
 ## Total Results
 
 
 | Findings             | Contests    | 
 |:-------------------|:-------------|
-| 23 High 13 Medium   | 12 |
+| 26 High 15 Medium   | 13 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Report | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:|
-|August 2024  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Codehawks | 7 Highs, 3 Lows | [📝](/reports/Tadle/README.md)
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging, 2 Mediums | [📝](./reports/FjordStaking/README.md)
+|August 2024  | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | Sherlock | 3 Highs, 2 Mediums | [📝](./reports/Winnables/README.md)
+|August 2024  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Codehawks | 7 Highs, 3 Lows | [📝](/reports/Tadle/README.md)
 |July 2024  | [TraitForge](https://code4rena.com/audits/2024-07-traitforge) | Code4rena | 5 Highs, 5 Mediums | [📝](./reports/TraitForge/README.md)
 |July 2024  | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | Code4rena | 2 Highs, 1 Medium | [📝](./reports/Munchables/README.md)
 |July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 community judging, 1 Medium, 2 Lows | [📝](./reports/TempleGold/README.md)
