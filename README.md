@@ -3,7 +3,7 @@
 
 - [X](https://twitter.com/bri_samed)
 
-## Total Results
+## Public contests Results
 
 
 | Findings             | Contests    | 
@@ -26,3 +26,16 @@
 |December 2023  | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | CodeHawks | 1 Medium | [📝](./reports/StakeLink/README.md)
 |December 2023  | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | Code4rena | 1 High | [📝](./reports/Revolution%20Protocol/README.md)
 
+## Judging
+| Date             | Contest                                                                       | Platform                                                                                 | Type | 
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 community judging |
+|August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging |
+
+## Private Audits
+
+
+| Date             | Protocol                                                                       | Findings                                                                                 | Report |
+|:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| :-------:|
+|July 2024  | [Takaturn](https://takaturn.io/) | 4 Highs, 2 Mediums, 2 Lows  | Not public yet |
+|August 2024  | [Takasure](https://takadao.io/) | 3 Highs, 2 Mediums  | Not public yet |
