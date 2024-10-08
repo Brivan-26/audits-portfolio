@@ -37,5 +37,6 @@
 
 | Date             | Protocol                                                                       | Findings                                                                                 | Report |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| :-------:|
-|July 2024  | [Takaturn](https://takaturn.io/) | 4 Highs, 2 Mediums, 2 Lows  | Not public yet |
+|September 2024  | [Earthmeta.ai](https://x.com/EarthMetaAi) | 3 Mediums, 1 Low  | Not public yet |
 |August 2024  | [Takasure](https://takadao.io/) | 3 Highs, 2 Mediums  | Not public yet |
+|July 2024  | [Takaturn](https://takaturn.io/) | 4 Highs, 2 Mediums, 2 Lows  | Not public yet |
