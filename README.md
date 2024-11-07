@@ -8,10 +8,11 @@
 
 | Findings             | Contests    | 
 |:-------------------|:-------------|
-| 26 High 15 Medium   | 13 |
+| 37 High 21 Medium   | 14 |
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Report | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:|
+|August 2024  | [Chakra](https://code4rena.com/audits/2024-08-chakra) | Code4rena | 10 Highs, 6 Mediums | Not public yet
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging, 2 Mediums | [📝](./reports/FjordStaking/README.md)
 |August 2024  | [Winnables Raffles](https://audits.sherlock.xyz/contests/516) | Sherlock | 3 Highs, 2 Mediums | [📝](./reports/Winnables/README.md)
 |August 2024  | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle) | Codehawks | 7 Highs, 3 Lows | [📝](/reports/Tadle/README.md)
