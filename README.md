@@ -31,6 +31,7 @@
 ## Judging
 | Date             | Contest                                                                       | Platform                                                                                 | Type | Results |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:
+|November 2024  | [OneWorld](https://codehawks.cyfrin.io/c/2024-11-one-world) | Codehawks | Lead-Judge | - |
 |September 2024  | [Starknet Staking](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) | Codehawks | Lead-Judge | - |
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging | 🥇
 |July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 community judging | 🥇
