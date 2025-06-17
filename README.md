@@ -36,10 +36,22 @@
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging | 🥇
 |July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 community judging | 🥇
 
+
 ## Private Audits
 
+| Firm | Protocol                                                                       | 
+|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| 
+| [Pashov](https://x.com/PashovAuditGrp) | [BOB](https://x.com/build_on_bob) |
+| [Pashov](https://x.com/PashovAuditGrp) | Altitude Smart Router |
+| [Pashov](https://x.com/PashovAuditGrp) | [PuncakeSwap](https://x.com/PancakeSwap) | 
+| [Pashov](https://x.com/PashovAuditGrp) | [SushiSwap](https://x.com/SushiSwap) |
 
-| Date             | Protocol                                                                       | Findings                                                                                 | Report |
+
+
+## Private Solo Audits
+
+
+| Date              | Protocol                                                                       | Findings                                                                                 | Report |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| :-------:|
 |September 2024  | [Earthmeta.ai](https://x.com/EarthMetaAi) | 3 Mediums, 1 Low  | Not public yet |
 |August 2024  | [Takasure](https://takadao.io/) | 3 Highs, 2 Mediums  | Not public yet |
