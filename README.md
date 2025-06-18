@@ -1,9 +1,27 @@
-# Audit Portfolio - 0xbrivan | Abdessamed
+# Audit Portfolio - 0xbrivan
 
 
 - [X](https://twitter.com/bri_samed)
 
-## Public contests Results
+## Private Audits
+
+| Firm | Protocol                                                                       | 
+|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| 
+| [Netheremind](https://x.com/NethermindEthp) | [World Chain](https://x.com/world_chain_) |
+| [Netheremind](https://x.com/NethermindEthp) | [Skate](https://x.com/skate_chain) |
+| [Pashov](https://x.com/PashovAuditGrp) | [PuncakeSwap](https://x.com/PancakeSwap) | 
+| [Netheremind](https://x.com/NethermindEthp) | [Vana](https://x.com/vana) |
+| [Netheremind](https://x.com/NethermindEthp) | [Gyroscope](https://x.com/GyroStable) |
+| [Pashov](https://x.com/PashovAuditGrp) | [SushiSwap](https://x.com/SushiSwap) |
+| [Netheremind](https://x.com/NethermindEthp) | [Royco](https://x.com/roycoprotocol) |
+| [Netheremind](https://x.com/NethermindEthp) | [Token Fleet](https://x.com/tokenfleet_io) |
+| [Netheremind](https://x.com/NethermindEthp) | [Meta Pool](https://x.com/meta_pool) |
+| [Netheremind](https://x.com/NethermindEthp) | [ZkVeggies](https://x.com/zkVeggies) |
+| [Pashov](https://x.com/PashovAuditGrp) | [BOB](https://x.com/build_on_bob) |
+| [Pashov](https://x.com/PashovAuditGrp) | Altitude Smart Router |
+
+
+## Public contests
 
 
 | Findings             | Contests    | 
@@ -28,24 +46,14 @@
 |December 2023  | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | CodeHawks | 1 Medium | [📝](./reports/StakeLink/README.md)
 |December 2023  | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | Code4rena | 1 High | [📝](./reports/Revolution%20Protocol/README.md)
 
-## Judging
+## Public Contests Judging
+
 | Date             | Contest                                                                       | Platform                                                                                 | Type | Results |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:
 |November 2024  | [OneWorld](https://codehawks.cyfrin.io/c/2024-11-one-world) | Codehawks | Lead-Judge | - |
 |September 2024  | [Starknet Staking](https://codehawks.cyfrin.io/c/2024-09-starknet-staking) | Codehawks | Lead-Judge | - |
 |August 2024  | [Fjord Token Staking](https://codehawks.cyfrin.io/c/2024-08-fjord) | Codehawks | 🥇 community judging | 🥇
 |July 2024  | [TempleGold](https://codehawks.cyfrin.io/c/2024-07-templegold/) | Codehawks | 🥇 community judging | 🥇
-
-
-## Private Audits
-
-| Firm | Protocol                                                                       | 
-|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| 
-| [Pashov](https://x.com/PashovAuditGrp) | [BOB](https://x.com/build_on_bob) |
-| [Pashov](https://x.com/PashovAuditGrp) | Altitude Smart Router |
-| [Pashov](https://x.com/PashovAuditGrp) | [PuncakeSwap](https://x.com/PancakeSwap) | 
-| [Pashov](https://x.com/PashovAuditGrp) | [SushiSwap](https://x.com/SushiSwap) |
-
 
 
 ## Private Solo Audits
