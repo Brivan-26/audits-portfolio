@@ -1,6 +1,8 @@
 # Audit Portfolio - 0xbrivan
 
-
+- Security Researcher at [Nethermind](https://x.com/NethermindEth)
+- Auditor at [Pashov Group](https://x.com/PashovAuditGrp)
+- Lead judge at [Codehawks](https://x.com/CodeHawks)
 - [X](https://twitter.com/bri_samed)
 
 ## Private Audits
@@ -46,7 +48,7 @@
 |December 2023  | [stake.link](https://www.codehawks.com/contests/clqf7mgla0001yeyfah59c674) | CodeHawks | 1 Medium | [📝](./reports/StakeLink/README.md)
 |December 2023  | [Revolution Protocol](https://code4rena.com/audits/2023-12-revolution-protocol#top) | Code4rena | 1 High | [📝](./reports/Revolution%20Protocol/README.md)
 
-## Public Contests Judging
+## Public Contests' Judging
 
 | Date             | Contest                                                                       | Platform                                                                                 | Type | Results |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:| :-------:
