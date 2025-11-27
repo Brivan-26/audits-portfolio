@@ -9,16 +9,21 @@
 
 | Firm | Protocol                                                                       | 
 |:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| 
-| [Netheremind](https://x.com/NethermindEthp) | [World Chain](https://x.com/world_chain_) |
-| [Netheremind](https://x.com/NethermindEthp) | [Skate](https://x.com/skate_chain) |
+| [Netheremind](https://x.com/Nethermind) | [World Chain](https://x.com/world_chain_) |
+| [Netheremind](https://x.com/Nethermind) | [Skate](https://x.com/skate_chain) |
+| [Netheremind](https://x.com/Nethermind) | [Sentinent](https://x.com/SentientAGI) |
 | [Pashov](https://x.com/PashovAuditGrp) | [PuncakeSwap](https://x.com/PancakeSwap) | 
-| [Netheremind](https://x.com/NethermindEthp) | [Vana](https://x.com/vana) |
-| [Netheremind](https://x.com/NethermindEthp) | [Gyroscope](https://x.com/GyroStable) |
+| [Netheremind](https://x.com/Nethermind) | [Vana](https://x.com/vana) |
+| [Netheremind](https://x.com/Nethermind) | [Impossible](https://x.com/ImpossibleFi) |
+| [Netheremind](https://x.com/Nethermind) | [Morpher](https://x.com/morpher_io) |
+| [Netheremind](https://x.com/Nethermind) | [Clave](https://x.com/getclave) |
+| [Netheremind](https://x.com/Nethermind) | [Gyroscope](https://x.com/GyroStable) |
 | [Pashov](https://x.com/PashovAuditGrp) | [SushiSwap](https://x.com/SushiSwap) |
-| [Netheremind](https://x.com/NethermindEthp) | [Royco](https://x.com/roycoprotocol) |
-| [Netheremind](https://x.com/NethermindEthp) | [Token Fleet](https://x.com/tokenfleet_io) |
-| [Netheremind](https://x.com/NethermindEthp) | [Meta Pool](https://x.com/meta_pool) |
-| [Netheremind](https://x.com/NethermindEthp) | [ZkVeggies](https://x.com/zkVeggies) |
+| [Netheremind](https://x.com/Nethermind) | [Royco](https://x.com/roycoprotocol) |
+| [Netheremind](https://x.com/Nethermind) | [Token Fleet](https://x.com/tokenfleet_io) |
+| [Netheremind](https://x.com/Nethermind) | [Meta Pool](https://x.com/meta_pool) |
+| [Netheremind](https://x.com/Nethermind) | [ZkVeggies](https://x.com/zkVeggies) |
+| [Netheremind](https://x.com/Nethermind) | [Ooga Booga](https://x.com/0xoogabooga) |
 | [Pashov](https://x.com/PashovAuditGrp) | [BOB](https://x.com/build_on_bob) |
 | [Pashov](https://x.com/PashovAuditGrp) | Altitude Smart Router |
 
@@ -63,6 +68,7 @@
 
 | Date              | Protocol                                                                       | Findings                                                                                 | Report |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| :-------:|
+|October 2025  | [Takadao](https://x.com/takadao_io) | 1 High, 3 Mediums, 3 Infos  | Not public yet |
 |September 2024  | [Earthmeta.ai](https://x.com/EarthMetaAi) | 3 Mediums, 1 Low  | Not public yet |
 |August 2024  | [Takasure](https://takadao.io/) | 3 Highs, 2 Mediums  | Not public yet |
 |July 2024  | [Takaturn](https://takaturn.io/) | 4 Highs, 2 Mediums, 2 Lows  | Not public yet |
