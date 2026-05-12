@@ -10,6 +10,8 @@
 | Firm | Protocol                                                                       | 
 |:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------| 
 | [Netheremind](https://x.com/Nethermind) | [World Chain](https://x.com/world_chain_) |
+| [Netheremind](https://x.com/Nethermind) | [Kintsu](https://x.com/Kintsu) |
+| [Netheremind](https://x.com/Nethermind) | [Fairblock](https://x.com/0xfairblock) |
 | [Netheremind](https://x.com/Nethermind) | [Skate](https://x.com/skate_chain) |
 | [Netheremind](https://x.com/Nethermind) | [Sentinent](https://x.com/SentientAGI) |
 | [Pashov](https://x.com/PashovAuditGrp) | [PuncakeSwap](https://x.com/PancakeSwap) | 
