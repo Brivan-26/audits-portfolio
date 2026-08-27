@@ -18,6 +18,7 @@
 | [Netheremind](https://x.com/Nethermind) | [Vana](https://x.com/vana) |
 | [Netheremind](https://x.com/Nethermind) | [Impossible](https://x.com/ImpossibleFi) |
 | [Netheremind](https://x.com/Nethermind) | [Morpher](https://x.com/morpher_io) |
+| [Netheremind](https://x.com/Nethermind) | [ENS Diamonds](https://x.com/namespace_eth) |
 | [Netheremind](https://x.com/Nethermind) | [Clave](https://x.com/getclave) |
 | [Netheremind](https://x.com/Nethermind) | [Gyroscope](https://x.com/GyroStable) |
 | [Pashov](https://x.com/PashovAuditGrp) | [SushiSwap](https://x.com/SushiSwap) |
@@ -26,6 +27,7 @@
 | [Netheremind](https://x.com/Nethermind) | [Meta Pool](https://x.com/meta_pool) |
 | [Netheremind](https://x.com/Nethermind) | [ZkVeggies](https://x.com/zkVeggies) |
 | [Netheremind](https://x.com/Nethermind) | [Ooga Booga](https://x.com/0xoogabooga) |
+| [Netheremind](https://x.com/Nethermind) | [Null](https://x.com/0xNullEth) |
 | [Pashov](https://x.com/PashovAuditGrp) | [BOB](https://x.com/build_on_bob) |
 | [Pashov](https://x.com/PashovAuditGrp) | Altitude Smart Router |
 
